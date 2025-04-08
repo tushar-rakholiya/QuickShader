@@ -1,0 +1,1 @@
+pip install numpy opencv-python scikit-learn Pillow pygame PyOpenGL pywavefront
